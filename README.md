@@ -1,4 +1,4 @@
-# NocoDB example
+# NocoDB
 
 This example deploys self-hosted version of [NocoDB](https://www.nocodb.com/). Internally it uses a PostgreSQL database to store the data.
 
